@@ -1,0 +1,12 @@
+
+data/
+
+spark-warehouse/
+checkpoint/
+metastore_db/
+derby.log
+
+__pycache__/
+.ipynb_checkpoints/
+
+Final_Recommendation.csv
